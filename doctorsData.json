@@ -1,0 +1,81 @@
+[
+    {
+      "name": "Dr. Alice Smith",
+      "specialization": "Cardiology",
+      "image": "https://www.allprodad.com/wp-content/uploads/2021/03/05-12-21-happy-people.jpg"
+    },
+    {
+      "name": "Dr. Bob Johnson",
+      "specialization": "Dermatology",
+      "image": "https://lh3.googleusercontent.com/rCQK8CXs06SxyLA9ajmF1rRXttJOyneTk73N5kz-HzCEpLZzJn3N_fTUxxaGapJLgRYzxsKI1cWmNhnf9ORoLsDgUyQxkO3ehWCSw5cEe38=s640"
+    },
+    {
+      "name": "Dr. Charlie Brown",
+      "specialization": "Dentistry",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2021_07/2233721/171120-smile-stock-njs-333p.jpg"
+    },
+    {
+      "name": "Dr. David Lee",
+      "specialization": "Endocrinology",
+      "image": "https://s.hdnux.com/photos/51/23/24/10827008/4/1200x0.jpg"
+    },
+    {
+      "name": "Dr. Emily Williams",
+      "specialization": "Family Medicine",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/27/08/jennifer-lawrence.jpg"
+    },
+    {
+      "name": "Dr. Frank Jones",
+      "specialization": "Gastroenterology",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNkwLyEyzTkzMxP-UkOMaOArlSmqK6O9GFw&usqp=CAU"
+    },
+    {
+      "name": "Dr. Grace Miller",
+      "specialization": "Hematology",
+      "image": "https://images.theconversation.com/files/552239/original/file-20231005-16-1flnlj.jpg?ixlib=rb-1.1.0&rect=0%2C26%2C5815%2C3844&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip"
+    },
+    {
+      "name": "Dr. Henry Brown",
+      "specialization": "Infectious Disease",
+      "image": "https://s.hdnux.com/photos/51/23/24/10827008/4/1200x0.jpg"
+    },
+    {
+      "name": "Dr. Isabella Garcia",
+      "specialization": "Internal Medicine",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTbM5O31BQ6OQErGd_SjddK_CgdUbexMrDlf6TW7lxGzGtNWhZc7TRw2QoX4n4AI3zcqY&usqp=CAU"
+    },
+    {
+      "name": "Dr. Jack Williams",
+      "specialization": "Nephrology",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/27/08/jennifer-lawrence.jpg"
+    },
+    {
+      "name": "Dr. Kelly Lee",
+      "specialization": "Neurology",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNkwLyEyzTkzMxP-UkOMaOArlSmqK6O9GFw&usqp=CAU"
+    },
+    {
+      "name": "Dr. Liam Smith",
+      "specialization": "Obstetrics & Gynecology",
+      "image": "https://images.theconversation.com/files/552239/original/file-20231005-16-1flnlj.jpg?ixlib=rb-1.1.0&rect=0%2C26%2C5815%2C3844&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip"
+    },
+    {
+      "name": "Dr. Mia Johnson",
+      "specialization": "Oncology",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTbM5O31BQ6OQErGd_SjddK_CgdUbexMrDlf6TW7lxGzGtNWhZc7TRw2QoX4n4AI3zcqY&usqp=CAU"
+    },
+    {
+      "name": "Dr. Noah Brown",
+      "specialization": "Ophthalmology",
+      "image": "https://s.hdnux.com/photos/51/23/24/10827008/4/1200x0.jpg"
+    },
+    {
+      "name": "Dr. Olivia Jones",
+      "specialization": "Orthopedics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNkwLyEyzTkzMxP-UkOMaOArlSmqK6O9GFw&usqp=CAU"
+    },
+    {
+      "name": "Dr. Peter Lee",
+      "specialization": "Otolaryngology",
+      "image":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/27/08/jennifer-lawrence.jpg"}]
+  
